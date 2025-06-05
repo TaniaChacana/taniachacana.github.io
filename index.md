@@ -25,7 +25,7 @@ Licence requests via email, unless stated otherwise below
 [available from Rosetta Type Foundry](https://rosettatype.com/NovaCaps)
 {: .description}
 
-![](/assets/portfolio/portfolio_nova-caps_1.svg)
+![](/assets/portfolio/portfolio_25_type_web-01.svg)
 ![](/assets/portfolio/portfolio_nova-caps_2.svg)
 ![](/assets/portfolio/portfolio_nova-caps_3.svg)
 ![](/assets/portfolio/portfolio_nova-caps_4.svg)
