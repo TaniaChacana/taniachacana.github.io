@@ -111,24 +111,7 @@ Published by A.B.C. (Alphabets by Chileans)
 [↑](#top)
 {: .top}
 
-### POLCA
-
-custom font / visual identity
-{: .description}
-
-![](/assets/portfolio/portfolio_polca_1.svg)
-![](/assets/portfolio/portfolio_polca_2.svg)
-![](/assets/portfolio/portfolio_polca_3.svg)
-![](/assets/portfolio/portfolio_polca_4.svg)
-{: .previews}
-
-[↑](#top)
-{: .top}
-
 ### AINO
-
-designed at the University of Reading
-{: .description}
 
 ![](/assets/portfolio/portfolio_25_type_web-24.svg)
 ![](/assets/portfolio/portfolio_25_type_web-25.svg)
