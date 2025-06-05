@@ -26,9 +26,10 @@ Licence requests via email, unless stated otherwise below
 {: .description}
 
 ![](/assets/portfolio/portfolio_25_type_web-01.svg)
-![](/assets/portfolio/portfolio_nova-caps_2.svg)
-![](/assets/portfolio/portfolio_nova-caps_3.svg)
-![](/assets/portfolio/portfolio_nova-caps_4.svg)
+![](/assets/portfolio/portfolio_25_type_web-02.svg)
+![](/assets/portfolio/portfolio_25_type_web-03.svg)
+![](/assets/portfolio/portfolio_25_type_web-04.svg)
+![](/assets/portfolio/portfolio_25_type_web-05.svg)
 {: .previews}
 
 [↑](#top)
