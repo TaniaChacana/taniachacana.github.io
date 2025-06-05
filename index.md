@@ -40,10 +40,12 @@ Licence requests via email, unless stated otherwise below
 Published by A.B.C. (Alphabets by Chileans)
 {: .description}
 
-![](/assets/portfolio/portfolio_abc-normal_1.svg)
-![](/assets/portfolio/portfolio_abc-normal_2.svg)
-![](/assets/portfolio/portfolio_abc-normal_3.svg)
-![](/assets/portfolio/portfolio_abc-normal_4.svg)
+![](/assets/portfolio/portfolio_25_type_web-12.svg)
+![](/assets/portfolio/portfolio_25_type_web-13.svg)
+![](/assets/portfolio/portfolio_25_type_web-14.svg)
+![](/assets/portfolio/portfolio_25_type_web-15.svg)
+![](/assets/portfolio/portfolio_25_type_web-16.svg)
+![](/assets/portfolio/portfolio_25_type_web-17.svg)
 {: .previews}
 
 [↑](#top)
@@ -56,10 +58,12 @@ Uncomment to put project description here
 {: .description}
 -->
 
-![](/assets/portfolio/portfolio_girandengo_1.svg)
-![](/assets/portfolio/portfolio_girandengo_2.svg)
-![](/assets/portfolio/portfolio_girandengo_3.svg)
-![](/assets/portfolio/portfolio_girandengo_4.svg)
+![](/assets/portfolio/portfolio_25_type_web-36.svg)
+![](/assets/portfolio/portfolio_25_type_web-37.svg)
+![](/assets/portfolio/portfolio_25_type_web-38.svg)
+![](/assets/portfolio/portfolio_25_type_web-39.svg)
+![](/assets/portfolio/portfolio_25_type_web-40.svg)
+![](/assets/portfolio/portfolio_25_type_web-41.svg)
 {: .previews}
 
 [↑](#top)
@@ -70,10 +74,12 @@ Uncomment to put project description here
 Published by A.B.C. (Alphabets by Chileans)
 {: .description}
 
-![](/assets/portfolio/portfolio_uomo_1.svg)
-![](/assets/portfolio/portfolio_uomo_2.svg)
-![](/assets/portfolio/portfolio_uomo_3.svg)
-![](/assets/portfolio/portfolio_uomo_4.svg)
+![](/assets/portfolio/portfolio_25_type_web-30.svg)
+![](/assets/portfolio/portfolio_25_type_web-31.svg)
+![](/assets/portfolio/portfolio_25_type_web-32.svg)
+![](/assets/portfolio/portfolio_25_type_web-33.svg)
+![](/assets/portfolio/portfolio_25_type_web-34.svg)
+![](/assets/portfolio/portfolio_25_type_web-35.svg)
 {: .previews}
 
 [↑](#top)
@@ -81,10 +87,12 @@ Published by A.B.C. (Alphabets by Chileans)
 
 ### MILA
 
-![](/assets/portfolio/portfolio_mila_1.svg)
-![](/assets/portfolio/portfolio_mila_2.svg)
-![](/assets/portfolio/portfolio_mila_3.svg)
-![](/assets/portfolio/portfolio_mila_5.svg)
+![](/assets/portfolio/portfolio_25_type_web-06.svg)
+![](/assets/portfolio/portfolio_25_type_web-07.svg)
+![](/assets/portfolio/portfolio_25_type_web-08.svg)
+![](/assets/portfolio/portfolio_25_type_web-09.svg)
+![](/assets/portfolio/portfolio_25_type_web-10.svg)
+![](/assets/portfolio/portfolio_25_type_web-11.svg)
 {: .previews}
 
 [↑](#top)
@@ -92,10 +100,12 @@ Published by A.B.C. (Alphabets by Chileans)
 
 ### READER
 
-![](/assets/portfolio/portfolio_reader_1.svg)
-![](/assets/portfolio/portfolio_reader_2.svg)
-![](/assets/portfolio/portfolio_reader_3.svg)
-![](/assets/portfolio/portfolio_reader_4.svg)
+![](/assets/portfolio/portfolio_25_type_web-18.svg)
+![](/assets/portfolio/portfolio_25_type_web-19.svg)
+![](/assets/portfolio/portfolio_25_type_web-20.svg)
+![](/assets/portfolio/portfolio_25_type_web-21.svg)
+![](/assets/portfolio/portfolio_25_type_web-22.svg)
+![](/assets/portfolio/portfolio_25_type_web-23.svg)
 {: .previews}
 
 [↑](#top)
@@ -120,12 +130,29 @@ custom font / visual identity
 designed at the University of Reading
 {: .description}
 
-![](/assets/portfolio/portfolio_kuppa_1.svg)
-![](/assets/portfolio/portfolio_kuppa_2.svg)
-![](/assets/portfolio/portfolio_kuppa_3.svg)
-![](/assets/portfolio/portfolio_kuppa_4.svg)
-![](/assets/portfolio/portfolio_kuppa_5.svg)
+![](/assets/portfolio/portfolio_25_type_web-24.svg)
+![](/assets/portfolio/portfolio_25_type_web-25.svg)
+![](/assets/portfolio/portfolio_25_type_web-26.svg)
+![](/assets/portfolio/portfolio_25_type_web-27.svg)
+![](/assets/portfolio/portfolio_25_type_web-28.svg)
+![](/assets/portfolio/portfolio_25_type_web-29.svg)
 {: .previews}
+
+### ABC Normal Mono 
+
+<!--
+Uncomment to put project description here
+{: .description}
+-->
+
+![](/assets/portfolio/portfolio_25_type_web-42.svg)
+![](/assets/portfolio/portfolio_25_type_web-43.svg)
+![](/assets/portfolio/portfolio_25_type_web-44.svg)
+![](/assets/portfolio/portfolio_25_type_web-45.svg)
+![](/assets/portfolio/portfolio_25_type_web-46.svg)
+![](/assets/portfolio/portfolio_25_type_web-47.svg)
+![](/assets/portfolio/portfolio_25_type_web-48.svg)
+
 
 ### BIO
 
