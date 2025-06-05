@@ -152,7 +152,10 @@ Uncomment to put project description here
 ![](/assets/portfolio/portfolio_25_type_web-46.svg)
 ![](/assets/portfolio/portfolio_25_type_web-47.svg)
 ![](/assets/portfolio/portfolio_25_type_web-48.svg)
+{: .previews}
 
+[↑](#top)
+{: .top}
 
 ### BIO
 
